@@ -300,9 +300,9 @@
   width: 228px;
 
 }
-/* Если задаю min-height только  в footer высота не наследуется   */
+
 .footer__columns{
-  min-height:350px;
+  min-height:250px;
   display: flex;
   width: 90%;
   margin: 0 auto;
